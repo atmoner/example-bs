@@ -11,7 +11,7 @@
    ```
 3. Start your endpoint
    ```sh
-   npm start
+   node app.js
    ```
 4. Open endpoint
    ```sh

@@ -9,7 +9,7 @@
    ```sh
    npm install
    ```
-3. Start your bot
+3. Start your endpoint
    ```sh
    npm start
    ```
